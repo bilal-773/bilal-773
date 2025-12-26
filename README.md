@@ -7,7 +7,13 @@
 </p>
 
 
-<h1 align="center">Hi 👋, I'm Muhammad Bilal</h1>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hey+there,+I'm+Muhammad+Bilal&font=Fira+Code&size=23&pause=1000&color=#2a9df4" alt="Typing SVG">
+  </a>
+</p>
+
+
 <h3 align="center">A Computer Science student passionate about building real-world applications</h3>
 
 
