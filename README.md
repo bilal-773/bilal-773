@@ -1,62 +1,43 @@
-<!-- MASTERHEAD BANNER -->
-<p align="center">
-  <img src="https://i.pinimg.com/originals/bc/64/ec/bc64eca2ac244d7886d5da39ebcf13a7.gif" 
-       alt="MasterHead Banner" 
-       width="100%" 
-       style="max-height: 400px; object-fit: cover; border-radius: 8px;" />
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Hey+there,+I'm+Muhammad+Bilal&font=Fira+Code&size=23&pause=1000&color=#2a9df4" alt="Typing SVG">
-  </a>
-</p>
+<!-- Animated Banner (Dark and Light Mode aware) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/USERNAME/USERNAME/main/dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/USERNAME/USERNAME/main/light.svg">
+  <img alt="M Bilal Profile Banner" src="https://raw.githubusercontent.com/USERNAME/USERNAME/main/dark.svg" width="100%">
+</picture>
 
-<h3 align="center">A Computer Science student passionate about building real-world applications</h3>
+<br/><br/>
 
-<br>
-<br>
+<!-- Social Badges -->
+<a href="https://linkedin.com/in/USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+&nbsp;&nbsp;
+<a href="https://instagram.com/USERNAME"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+&nbsp;&nbsp;
+<a href="mailto:contact@mbilal.dev"><img src="https://img.shields.io/badge/Email-0A101F?style=for-the-badge&logo=gmail&logoColor=22D3EE" alt="Email"/></a>
+&nbsp;&nbsp;
+<a href="https://facebook.com/USERNAME"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
+&nbsp;&nbsp;
+<a href="https://mbilal.dev"><img src="https://img.shields.io/badge/Portfolio-0A101F?style=for-the-badge&logo=vercel&logoColor=22D3EE" alt="Portfolio"/></a>
 
-<table>
-<tr>
-<td>
+<br/><br/>
 
-🌱 I’m currently learning **Quantum Cryptography**
+<!-- Contribution Streak Card -->
+<img width="100%" src="https://streak-stats.demolab.com/?user=USERNAME&hide_border=true&background=0A101F&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&titleColor=22D3EE&card_width=1180" alt="Streak Stats" />
 
-<p>🧑🏻💻 <strong>About Me:</strong> I am a Computer Science student at <strong>FAST NUCES</strong> with experience in software development, web technologies, and graphic design, focused on building clean, scalable, and user-centric solutions.</p>
+<br/><br/>
 
-💼 **My Portfolio:**  
-https://bilal-portfolio-773.netlify.app/  
+<!-- GitHub Stats & Top Languages Cards -->
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="Top Languages" />
 
-📫 **How to reach me:**  
-bilal773asif@gmail.com  
+<br/><br/>
 
-</td>
+<!-- Contribution Snake Animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-snake.svg" />
+  <img alt="Snake eating contributions" src="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-snake-dark.svg" />
+</picture>
 
-<td align="right">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnlvOWJkN25kNXBwbDdnZXNnOTJ2bjU4bmd6MnpqZWdyZGF4Z3FtYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"
-       alt="Coding GIF"
-       width="280" />
-</td>
-</tr>
-</table>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/muhammad-bilal-8b8133335/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://www.instagram.com/bilal_asif_773/?igsh=emk0aznncdy1cgvu" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
-  <a href="https://github.com/bilal-773" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
-  </a>
-</p>
-
-### 🛠 Languages and Tools:
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,cpp,java,js,react,html,css,mysql,postgres,mongodb,numpy,pandas,scikitlearn,tensorflow,supabase,nodejs,git,github,figma,notion,kali&perline=11" alt="My Skills Grid" />
-  </a>
-</p>
+</div>
